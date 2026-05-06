@@ -1,1 +1,1 @@
-test write access from claude mcp
+cleanup: removing test file
