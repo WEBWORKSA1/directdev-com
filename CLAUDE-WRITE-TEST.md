@@ -1,0 +1,1 @@
+test write access from claude mcp
